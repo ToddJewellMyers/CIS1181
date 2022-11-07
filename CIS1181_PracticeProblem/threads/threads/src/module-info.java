@@ -1,0 +1,3 @@
+module threads {
+	exports threads;
+}
